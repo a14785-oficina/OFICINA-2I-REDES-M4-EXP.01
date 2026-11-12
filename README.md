@@ -1,5 +1,3 @@
-# OFICINA-2I-REDES-M4-EXP.01
-
 # Exercício 01
 
 Página de apresentação de uma marca com header, navegação, secções principais e rodapé.
